@@ -1,26 +1,12 @@
 <h1 align="center">🌟 Portfolio Website 🌟</h1>
 <p align="center">
-  <img alt="Demo" src="./Images/demo.png" width="80%" />
+  <img alt="Demo" src="./Images/readme_img.png" width="80%" />
 </p>
 
-<p align="center">
-  <!-- Uncomment to display badges -->
-  <!--
-  <a href="https://forthebadge.com">
-    <img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  </a>
-  <a href="https://forthebadge.com">
-    <img alt="Made with JavaScript" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-  </a>
-  <a href="https://forthebadge.com">
-    <img alt="Open Source" src="https://forthebadge.com/images/badges/open-source.svg" />
-  </a>
-  -->
-</p>
 
 <p align="center">
-  <a href="https://github.com/Sumitwarrior7/Portfolio/issues">🛠 Report Bug</a> &nbsp; | &nbsp;
-  <a href="https://github.com/Sumitwarrior7/Portfolio/issues">✨ Request Feature</a>
+  <a href="https://github.com/Sumitwarrior7/Portfolio-2.0/issues">🛠 Report Bug</a> &nbsp; | &nbsp;
+  <a href="https://github.com/Sumitwarrior7/Portfolio-2.0/issues">✨ Request Feature</a>
 </p>
 
 ---
@@ -28,11 +14,11 @@
 ## 🚀 About the Project
 
 This is my personal portfolio website, showcasing:  
-- Selected GitHub projects  
+- About Me
 - My resume  
-- A summary of my technical skills  
-
-The website is live at [Sumitwarrior7.com](https://).
+- A summary of my technical skills 
+- Description of projects
+- My competetive programming profiles
 
 ---
 
@@ -61,18 +47,19 @@ To get started with this project, clone the repository. Ensure you have `node.js
 
 ### Installation and Setup Instructions
 
-1. **Clone the repository**  
+1. **Fork this repository**  
+
+2. **Clone the forked repository**  
    ```bash
-   git clone https://github.com/Sumitwarrior7/Portfolio.git
-   cd Portfolio
+   git clone https://github.com/<username>/Portfolio-2.0.git
    ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Run the application**
+4. **Run the application**
    ```bash
    npm start
    ```
@@ -92,12 +79,12 @@ To get started with this project, clone the repository. Ensure you have `node.js
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/Sumitwarrior7/Portfolio/issues) for more details.
+Feel free to check the [issues page](https://github.com/Sumitwarrior7/Portfolio-2.0/issues) for more details.
 
 ---
 
 ## 💬 Contact
 
-If you want to reach out, connect with me via [LinkedIn](#) or email at `your-email@example.com`.
+If you want to reach out, connect with me via [LinkedIn](https://www.linkedin.com/in/sumitghoshiitbhu21135133/) or email at `sumitheavydriver2017@gmail.com`.
 
 <p align="center">Made with ❤️ by [Sumitwarrior7](https://github.com/Sumitwarrior7)</p>
