@@ -1,76 +1,103 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+<h1 align="center">🌟 Portfolio Website 🌟</h1>
+<p align="center">
+  <img alt="Demo" src="./Images/demo.png" width="80%" />
+</p>
 
-<br/>
+<p align="center">
+  <!-- Uncomment to display badges -->
+  <!--
+  <a href="https://forthebadge.com">
+    <img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  </a>
+  <a href="https://forthebadge.com">
+    <img alt="Made with JavaScript" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+  </a>
+  <a href="https://forthebadge.com">
+    <img alt="Open Source" src="https://forthebadge.com/images/badges/open-source.svg" />
+  </a>
+  -->
+</p>
 
-<center>
+<p align="center">
+  <a href="https://github.com/Sumitwarrior7/Portfolio/issues">🛠 Report Bug</a> &nbsp; | &nbsp;
+  <a href="https://github.com/Sumitwarrior7/Portfolio/issues">✨ Request Feature</a>
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+---
 
-</center>
+## 🚀 About the Project
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+This is my personal portfolio website, showcasing:  
+- Selected GitHub projects  
+- My resume  
+- A summary of my technical skills  
 
-## TL;DR
+The website is live at [Sumitwarrior7.com](https://).
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+---
 
-## Built With
+## 🛠 Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+This project was built using the following technologies:
 
-This project was built using these technologies.
+- **React.js**
+- **Node.js**
+- **CSS3**
+- **Vercel**
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
-## Features
+## ✨ Features
 
-**📖 Multi-Page Layout**
+- 📖 **Multi-Page Layout**
+- 🌟 **Styled with React-Bootstrap and CSS for easy customization**
+- 📱 **Fully Responsive Design**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## 🚀 Getting Started
 
-## Getting Started
+To get started with this project, clone the repository. Ensure you have `node.js` and `git` installed globally on your machine.
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Installation and Setup Instructions
 
-## 🛠 Installation and Setup Instructions
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Sumitwarrior7/Portfolio.git
+   cd Portfolio
+   ```
 
-1. Installation: `npm install`
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-2. In the project directory, you can run: `npm start`
+3. **Run the application**
+   ```bash
+   npm start
+   ```
+   This will start the app in development mode. Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.  
+   The page will reload if you make edits.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+---
 
-## Usage Instructions
+## 📂 Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+1. Open the project folder.
+2. Navigate to the `/src/components/` directory.
+3. Edit the components to update your information, such as projects, skills, and personal details.
 
-### Show your support
+---
 
-Give a ⭐ if you like this website!
+## 🤝 Contributing
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Sumitwarrior7/Portfolio/issues) for more details.
+
+---
+
+## 💬 Contact
+
+If you want to reach out, connect with me via [LinkedIn](#) or email at `your-email@example.com`.
+
+<p align="center">Made with ❤️ by [Sumitwarrior7](https://github.com/Sumitwarrior7)</p>
