@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
+import golangMedia from "../../Assets/Projects/golang_media.jpeg"
 import agrokart from "../../Assets/Projects/agrokart_pic.png"
 import pathFinder from "../../Assets/Projects/path_finder_pic.png"
 import secureVoting from "../../Assets/Projects/secure_votic_pic.png"
@@ -20,6 +21,17 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+              <ProjectCard
+                imgPath={golangMedia}
+                isBlog={false}
+                title="Golang Media"
+                description="Golang Media is a social media platform where users can create posts, comment, follow others, and explore content with an optimized search functionality. Built with a containerized 3-tier architecture using Docker, it integrates Redis caching and Mailtrap mailing for modular third-party service management. The platform ensures security with JWT authentication, email verification, role-based authorization, and API rate limiting. Features like paginated user feeds, structured logging, database seeding, and automated workflows using Makefile enhance scalability and performance."
+                ghLink="https://github.com/Sumitwarrior7/Golang-Media"
+                demoLink="https://github.com/Sumitwarrior7/Golang-Media"
+              />
+            </Col>
+        
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={agrokart}
