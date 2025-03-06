@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in 
               <i>
-                <b className="purple"> C++, Python, JS, SQL, Go </b> and many more.
+                <b className="purple"> C++, Python, JS, SQL, Golang </b> and many more.
               </i>
               <br />
               <br />
@@ -37,8 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Currently, I am exploring cloud-based technologies such as <b className="purple">AWS</b>, <b className="purple">Kubernetes</b>, and more, to enhance scalability and optimize performance.
-            </p>
+              I am currently exploring <b className="purple">Generative AI</b> and <b className="purple">AI Agents</b>, learning how they work and how to build intelligent systems with them.            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
